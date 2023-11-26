@@ -1,0 +1,21 @@
+GET http://localhost:3000/states/
+
+GET http://localhost:3000/states/17/
+
+GET http://localhost:3000/districts/322/
+
+GET http://localhost:3000/states/17/stats/
+
+
+GET http://localhost:3000/districts/20/details/
+
+
+
+
+
+
+
+
+####################################################
+
+GET http://localhost:3000/districts/7/kowshik/
